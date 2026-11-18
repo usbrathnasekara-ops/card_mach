@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# Mobile Application Development - Assignment 01 (Card Matching Game)PE/2022/013
+
+* **Name:** K.M.G.G.U.S.B.Rathnasekara
+* **Student ID:** PE/2022/013
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
